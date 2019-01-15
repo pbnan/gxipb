@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-gxipb 01 15
+                    Laravel-github test
                 </div>
 
                 <div class="links">
